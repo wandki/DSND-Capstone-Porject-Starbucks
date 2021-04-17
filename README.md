@@ -1,4 +1,4 @@
-# DSND-Capstone-Porject-Starbucks
+# Starbucks Capstone Porject
 
 
 This is the capstone project for the Udacity Data Scientist nano-degree program. 
