@@ -4,10 +4,11 @@
 This is the capstone project for the Udacity Data Scientist nano-degree program. 
 
 ## Project Motivation
-TODO
+Sending offers to customer is a good strategy to attract new customers and retain existing one. However, not all customers respond in a similar way and individual customers have their own preferences towards received offer types. A customer might be interested in saving money with discounts, another might be more interested in getting more items for less while a different customer would prefer to only know about what is new without caring for any savings. This brings us to the topic of this article and we starting with our problem statement:
+We aim to identify Starbucks customers behavior in regards to sent offers. This include analyzing and grouping Starbucks customers to provide customized offers that has higher chance of attracting and retaining customers and influencing their purchases.
 
 ## Analysis Findings
-TODO
+Analysis findings are documented in the following meduim [article](https://waadyk.medium.com/starbucks-offers-data-analysis-48e75a379a95)
 
 
 ## Technical information
@@ -15,10 +16,18 @@ TODO
 
 ### Installation
 Run all py files with Python3. Make sure that you instal the following libraries using pip3 install command:
- - pandas
- - sklearn
- - plotly
- - .....
+* pandas
+* numpy
+* math
+* json
+* matplotlib
+* sklearn:
+  * train_test_split
+  * AdaBoostClassifier
+  * GaussianNB
+  * DecisionTreeClassifier
+  * RandomForestClassifier
+  * Aaccuracy_score
 
 
 ### Project File Structure
