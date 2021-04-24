@@ -28,6 +28,7 @@ Run all py files with Python3. Make sure that you instal the following libraries
   * DecisionTreeClassifier
   * RandomForestClassifier
   * Aaccuracy_score
+  * GridSearchCV
 
 
 ### Project File Structure
